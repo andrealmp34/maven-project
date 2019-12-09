@@ -1,4 +1,4 @@
 /**
 *File package
 */
-package example.com
+package example.com;
